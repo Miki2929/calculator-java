@@ -8,6 +8,7 @@ Metode evaluateExpression i Calculate imaju sljedeće metrike:
 evaluateExpression:
 Ciklomatska složenost: 4
 Kognitivna složenost: 12
+
 Calculate:
 Ciklomatska složenost: 3
 Kognitivna složenost: 6
